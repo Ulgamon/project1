@@ -17,5 +17,9 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "description": "For this project, you'll be implementing a Pomodoro timer. This timer will help people trying to use the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique). It will vibrate to tell you when to take breaks or resume working, based on some determined values. Check out the [staff solution](#staff-solution) for a working version.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
